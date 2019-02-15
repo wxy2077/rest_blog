@@ -1,5 +1,9 @@
 ## 个人博客
 系统管理员　
+- 主要功能
+[ ] 首页
+[x] 系统后台集成xadmin&Ueditor
+后台url: hhtp://127.0.0.1:8000/xadmin
 账号admin
 密码admin12345
 
