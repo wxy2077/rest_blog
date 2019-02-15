@@ -6,7 +6,7 @@
 - [x] 系统后台集成xadmin&Ueditor
 
 
-后台url: hhtp://127.0.0.1:8000/xadmin
+后台url: http://127.0.0.1:8000/xadmin
 
 系统管理员　
 账号admin
