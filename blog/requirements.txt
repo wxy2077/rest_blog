@@ -3,7 +3,7 @@ certifi==2018.1.18
 chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
-Django==1.10.8
+Django==1.11.23
 django-ckeditor==5.4.0
 django-crispy-forms==1.7.1
 django-filter==1.1.0
